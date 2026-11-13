@@ -1,0 +1,6 @@
+{
+  "name": "Scene Shadow: Zootopia",
+  "description": "Educational movie-clip shadowing practice web app for Zootopia (ENG3088 Sungkyunkwan University).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
